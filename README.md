@@ -1,2 +1,2 @@
 # primeiro-repositorio
-Desafio de projeto Git HUB
+Desafio de projeto GitHUB
